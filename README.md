@@ -9,4 +9,4 @@ I scraped [MarineTraffic](https://www.marinetraffic.com/en/ais/home/centerx:-151
 - Organized CSS better than the first one
 - scraping
 ## Issues
-- Although I did scraping, but the website stopped me in the end of it, so it is not the whole data.
+- Although I did scraping, I couldn't do the whole, so the data is not perfect.
